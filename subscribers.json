@@ -1,7 +1,13 @@
 {
-	"subscribers": [{
-		"email": "example@br.ibm.com"
-	},{
-		"email": "cacaca@br.ibm.com"
-	}]
+	"subscribers": [
+		{
+			"email": "example@br.ibm.com"
+		},
+		{
+			"email": "cacaca@br.ibm.com"
+		},
+		{
+			"email": "heros@br.ibm.com"
+		}
+	]
 }
