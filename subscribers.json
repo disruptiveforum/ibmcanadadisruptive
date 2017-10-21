@@ -1,5 +1,7 @@
 {
 	"subscribers": [{
 		"email": "example@br.ibm.com"
+	},{
+		"email": "cacaca@br.ibm.com"
 	}]
 }
