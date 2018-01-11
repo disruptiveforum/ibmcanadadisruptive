@@ -2,6 +2,9 @@
 	"subscribers": [
 		{
 			"email": "example@br.ibm.com"
+		},
+		{
+			"email": "crosario@br.ibm.com"
 		}
 	]
 }
